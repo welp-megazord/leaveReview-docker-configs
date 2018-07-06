@@ -1,0 +1,20 @@
+{
+  "name": "leaveReview-docker-configs",
+  "version": "1.0.0",
+  "description": "Docker build files and docker-compose up configs for Database and Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welp-megazord/leaveReview-docker-configs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welp-megazord/leaveReview-docker-configs/issues"
+  },
+  "homepage": "https://github.com/welp-megazord/leaveReview-docker-configs#readme"
+}
